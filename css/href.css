@@ -1,0 +1,21 @@
+a {
+    width: 200px;
+    color: #8ab4f7;
+    font-size: 14px;
+    text-decoration: none;
+    border: 1px solid #8ab4f7;
+    border-radius: 20px;
+    padding: 10px 25px;
+    margin-right: 7px;
+    margin-bottom: 30px;
+}
+
+a:hover {
+    background-color: #292a2c;
+}
+
+a:active {
+    color: #4c727b;
+    border-color: #4c727b;
+
+}

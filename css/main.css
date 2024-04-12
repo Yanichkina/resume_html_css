@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url(form.css);
+@import url(info.css);
+@import url(card.css);
+@import url(href.css);
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    color: #dadce0;
+    background: #202124;
+}
+
+.container {
+    max-width: 1000px;
+    margin: auto;
+    padding-top: 20px;
+}
+
+
+

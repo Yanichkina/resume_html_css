@@ -1,0 +1,53 @@
+.card {
+    border:  solid #28292a;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    padding: 15px 20px; 
+}
+
+
+.list-hobby {
+    padding: 0 20px;
+}
+.list-hobby li {
+    color:#b3babf;
+    margin-bottom: 7px;
+}
+
+
+.card h2 {
+    margin-bottom: 10px;
+}
+
+.bg-true {
+    background-color: #28292a;
+}
+
+.solid-true {
+    border: 2px solid #80868a;
+}
+
+
+
+.list-education {
+    padding: 0 20px;
+}
+.list-education li {
+    color:#b3babf;
+    margin-bottom: 7px;
+}
+
+
+.table-job {
+    width: 100%;
+}
+
+.table-job td {
+    padding-bottom: 10px;
+}
+
+.table-job td:nth-child(2), .table-job td:nth-child(3) {
+    color: #b3babf;
+}
+
+
